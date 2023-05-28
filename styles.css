@@ -51,6 +51,12 @@ div{
 	background-color:white;
 	padding:5px;
 }
+.latest-news-section{
+	width:150px;
+	background-color:white;
+	border-radius:20px;
+	text-align:center;
+}
 .pictorial-news-section{
 	text-align:center;
 }
